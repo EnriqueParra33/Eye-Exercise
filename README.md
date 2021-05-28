@@ -16,6 +16,10 @@ This project consist of a pair of eyes that follows the cursor through the webpa
 
 Add some features in order to change the color of the eyes to a specific color, to blink, cry and to add more eyes.
 
+## Support
+
+If you have any comments or require further information you can contact me via: enriqueparra33@gmail.com
+
 ## License
 
 MIT License
